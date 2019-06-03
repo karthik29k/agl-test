@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AGL Interview Test</string>
+    <string name="typeTextString">%1$s %2$s</string>
+</resources>
